@@ -1,0 +1,56 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+#root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  main {
+    flex-grow: 1;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 1240px;
+    padding: 0px 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .background {
+    background-image: url('/src/assets/shoe2.webp'); /* Rasm manzilini to'g'ri ko'rsating */
+    background-size: cover; /* Rasmni ekran bo‘ylab cho‘zish */
+    background-position: center; /* Rasmni markazga joylash */
+    width: 100%; /* Divning kengligi */
+    height: 300px; /* Divning balandligi */
+}
+  .background2 {
+    background: linear-gradient(to right, 
+    rgba(77, 178, 64, 0) 10px,  /* Chap tomondan 305px shaffof */
+    rgba(77, 178, 64, 0.565) 40%), /* Qolgan qismi yashil tusda */
+    url('/src/assets/about.jpg'); /* Rasm manzilini to'g'ri ko'rsating */
+    background-size: cover; /* Rasmni ekran bo‘ylab cho‘zish */
+    background-position: left; /* Rasmni markazga joylash */
+    width: 100%; /* Divning kengligi */
+    
+}
+
+.backs{
+  background: radial-gradient(498.32% 130.33% at 92.87% 11.25%, #a1ce7d, #1a7c15);
+}
+
+.background3{
+  border-radius: 16px;
+  background-image: url(./assets/dizfenks.png), radial-gradient(498.32% 130.33% at 92.87% 11.25%, #a1ce7d, #1a7c15);
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}

@@ -9,7 +9,7 @@ const translations = {
       },
       footer: {
         rights: "Barcha huquqlar himoyalangan.",
-         location:"O'zbekiston, Buxoro shaxri",
+         location:"O'zbekiston, Navoiy shaxri",
          locNum:"+998 94 033 72 12"
       },
       main: {
@@ -62,7 +62,7 @@ const translations = {
       },
       footer: {
         rights: "All rights reserved.",
-         location:"Uzbekistan, Bukhara city",
+         location:"Uzbekistan, Navoiy city",
         locNum:"+998 94 033 72 12"
       },
       main: {
@@ -115,7 +115,7 @@ const translations = {
       },
       footer: {
         rights: "Все права защищены.",
-        location:"Узбекистан, город Бухара",
+        location:"Узбекистан, город Навои",
         locNum:"+998 94 033 72 12"
       },
       main: {

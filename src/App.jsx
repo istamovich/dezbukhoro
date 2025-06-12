@@ -1,6 +1,6 @@
 import "./App.css";
 import Buttons from "./components/buttons";
-import logo from "./assets/logo.jpg";
+import logo from "./assets/logo.PNG";
 import LanguageDropdown from "./components/dropdown";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBarsStaggered } from "@fortawesome/free-solid-svg-icons/faBarsStaggered";
@@ -95,7 +95,7 @@ function App() {
       <header className=" sticky top-0 z-40 bg-white">
         <div className="shadow-lg w-full py-[20px]">
           <div className="flex items-center justify-between  max-w-[1550px]  mx-auto container">
-            <a href=""><img className="w-[100px] h-[72px]" src={logo} /></a>
+            <a href=""><img className="w-[200px] h-[72px]" src={logo} /></a>
 
             <div className="flex items-center justify-between gap-[15px]">
               <ul className="flex items-center justify-between gap-[25px] mr-4 max-[860px]:hidden">
@@ -503,7 +503,7 @@ function App() {
       <footer>
         <div className="mb-[150px] border-t-2 border-gray-500 pt-[70px]">
           <div className="container flex items-center gap-[200px] max-lg:justify-between max-lg:gap-[25px] max-sm:flex-col max-sm:items-start">
-            <img className="w-[100px] h-[72px]" src={logo} alt="logo" />
+            <img className="w-[200px] h-[72px]" src={logo} alt="logo" />
             <div>
               <a
                 className="text-black text-[16px] font-bold flex items-center gap-[25px] mb-2.5"

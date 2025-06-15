@@ -14,7 +14,7 @@ const translations = {
       },
       main: {
         buttonSend:"Bog'lanish",
-        welcome: "Buxoro Dezinfektsiya xizmati",
+        welcome: "Navoiy Dezinfektsiya xizmati",
         description: "Biz Buxoroda 10 yildan beri professional dezinfeksiya ishlarini olib boramiz, shuning uchun birinchi marta zararkunandalardan qanday qutilishni bilamiz.",
         aboutCards:"Tezda Xizmat Ko'rsatish",
         aboutUs:"Biz xaqimizda",
@@ -67,7 +67,7 @@ const translations = {
       },
       main: {
         buttonSend:"Connection",
-        welcome: "Bukhara Disinfection service",
+        welcome: "Navoiy Disinfection service",
         description: "We have been conducting professional disinfection work in Bukhara for 10 years, so we know how to get rid of pests for the first time.",
         aboutCards:"Quick Service",
         aboutUs:"About us",
@@ -120,7 +120,7 @@ const translations = {
       },
       main: {
         buttonSend:"Связь",
-        welcome: "Бухарская дезинфекционная служба",
+        welcome: "Навои дезинфекционная служба",
         description: "Мы ведем профессиональные дезинфекционные работы в Бухаре уже 10 лет, поэтому впервые знаем, как избавиться от вредителей.",
         aboutCards:"Быстрое обслуживание",
         aboutUs:"О нас",
